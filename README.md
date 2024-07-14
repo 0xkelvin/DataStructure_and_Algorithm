@@ -1,40 +1,43 @@
 # DataStructure_and_Algorithm
 Week 1-2: Introduction to Rust and Basic Data Structures
 
-	1.	Getting Started with Rust
-	•	Installation and Setup
-	•	Rust Basics: Variables, Data Types, Functions, Control Flow
-	•	Ownership and Borrowing
-	•	Modules and Crates
-	2.	Basic Data Structures
-	•	Arrays and Slices
-	•	Vectors
-	•	Strings
-	•	HashMaps
+1.Getting Started with Rust
+- Installation and Setup
+- Rust Basics: Variables, Data Types, Functions, Control Flow
+- Ownership and Borrowing
+- Modules and Crates
+- Basic Data Structures
+- Arrays and Slices
+- Vectors
+- Strings
+- HashMaps
 
 Week 3-4: Fundamental Algorithms
 
-	1.	Sorting Algorithms
-	•	Bubble Sort
-	•	Insertion Sort
-	•	Selection Sort
-	•	Merge Sort
-	•	Quick Sort
-	2.	Searching Algorithms
-	•	Linear Search
-	•	Binary Search
+1.Sorting Algorithms
+- Bubble Sort
+- Insertion Sort
+- Selection Sort
+- Merge Sort
+- Quick Sort
+
+2. Searching Algorithms
+- Linear Search
+- Binary Search
 
 Week 5-6: Advanced Data Structures
 
-	1.	Linked Lists
-	•	Singly Linked List
-	•	Doubly Linked List
-	2.	Stacks and Queues
-	•	Implementation using Vectors and Linked Lists
-	3.	Trees
-	•	Binary Trees
-	•	Binary Search Trees
-	•	AVL Trees
+1. Linked Lists
+- Singly Linked List
+- Doubly Linked List
+
+2. Stacks and Queues
+- Implementation using Vectors and Linked Lists
+
+3. Trees
+- Binary Trees
+- Binary Search Trees
+- AVL Trees
 
 Week 7-8: Graphs and Algorithms
 
